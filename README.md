@@ -1,5 +1,3 @@
-# facebook-clone-html-css
+# Facebook Clone
 Facebook UI Clone
 
-Youtube Tutorial:
-https://youtu.be/rix5THC-zVo
